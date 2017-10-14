@@ -5,9 +5,9 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 /**
  * Created by Carmel on 10/11/2017.
  *
- * Manual mode.
+ * Check robot hardware.
  */
-public class TeleopApollo extends OpMode{
+public class HardwareCheck extends OpMode{
     @Override
     public void init() {
 

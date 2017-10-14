@@ -9,5 +9,4 @@ public class AutoBlueWall extends AutoMain {
     public void runOpMode() throws InterruptedException {
         apolloRun(false, false);
     }
-
 }
